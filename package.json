@@ -1,0 +1,31 @@
+{
+  "name": "checkmyingredients",
+  "version": "1.0.0",
+  "main": "expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo-google-fonts/inter": "^0.2.3",
+    "@expo-google-fonts/montserrat": "^0.2.3",
+    "@google/generative-ai": "^0.11.4",
+    "aws-sdk": "^2.1626.0",
+    "axios": "^1.7.2",
+    "expo": "~51.0.8",
+    "expo-app-loading": "^2.1.1",
+    "expo-font": "~12.0.5",
+    "expo-image-picker": "~15.0.5",
+    "expo-permissions": "^14.4.0",
+    "react": "18.2.0",
+    "react-native": "0.74.1",
+    "react-native-progress": "^5.0.1",
+    "expo-updates": "~0.25.14"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
