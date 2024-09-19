@@ -22,5 +22,5 @@ This project allows you to analyze product ingredient labels using image recogni
 
 - **OCR Library**: AWS Textract
 - **Google Gemini API**: For AI-based ingredient analysis
-- **[Your programming language]**: Python, JavaScript
+- **Programming language**: Python, JavaScript
 
